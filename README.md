@@ -57,6 +57,6 @@ That will update the master repository.
 - Colin Salisbury
 - Eric Gruber (@egru)
 - Jake Reynolds (@jreynoldsdev)
-- Kai Tran (@k_tr4n)
+- Khai Tran (@k_tr4n)
 - Rafael Seferyan
 - Scott Sutherland (@_nullbind)
