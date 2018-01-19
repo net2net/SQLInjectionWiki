@@ -20,19 +20,15 @@
           </tr>
           <tr>
               <td>Bitwise AND</td>
-              <td>SELECT 6 &amp; 2 from dual</td>
+              <td>SELECT BITAND(1,2) FROM DUAL</td>
           </tr>
           <tr>
               <td>Bitwise OR</td>
-              <td>SELECT 6 from dual</td>
-          </tr>
-          <tr>
-              <td>Bitwise Negation</td>
-              <td>SELECT ~6 from dual</td>
+              <td>SELECT (x+y)-BITAND(x,y) FROM DUAL</td>
           </tr>
           <tr>
               <td>Bitwise XOR</td>
-              <td>SELECT 6 ^ 2 from dual</td>
+              <td>SELECT (x + y) - BitAND(x, y) * 2 FROM DUAL</td>
           </tr>
           <tr>
               <td>Select Nth Char</td>
